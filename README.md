@@ -7,7 +7,7 @@ Instructions:
 Solder into 5V regulator adapter with caps facing down and board pointing away from adapter board
 
 Power switches:
-http://www.digikey.com/product-detail/en/EG1218/EG1903-ND/101726
+https://www.digikey.com/product-detail/en/e-switch/500SSP1S2M2QEA/EG5137-ND/1803993
 
 Screw terminal blocks:
 http://www.digikey.com/product-detail/en/OSTVN04A150/ED10563-ND/1588864
