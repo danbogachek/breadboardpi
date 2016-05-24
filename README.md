@@ -6,13 +6,9 @@ Instructions: solder into 5V regulator adapter with caps facing down and board p
 Pinout for D24V50F5 Pololu regulator from top to bottom:
 
 -ENABLE -- enable pin negative
-
 -VIN -- voltage in
-
 -GND -- ground
-
 -GND -- ground
-
 -VOUT -- voltage out
 
 
