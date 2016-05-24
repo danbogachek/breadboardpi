@@ -6,11 +6,17 @@ D24V50F5 regulator used for breakout (highly recommend): https://www.pololu.com/
 Instructions: solder into 5V regulator adapter with caps facing down and board pointing away from adapter board
 
 Pinout for D24V50F5 Pololu regulator from top to bottom:
+
 -ENABLE -- enable pin negative
+
 -VIN -- voltage in
+
 -GND -- ground
+
 -GND -- ground
+
 -VOUT -- voltage out
+
 
 Power switches:
 https://www.digikey.com/product-detail/en/e-switch/500SSP1S2M2QEA/EG5137-ND/1803993
