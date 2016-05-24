@@ -2,9 +2,7 @@
 Documentation for the Raspberry Pi (40 pin) Breadboard Adapter listed on Tindie.
 
 D24V50F5 regulator used for breakout (highly recommend): https://www.pololu.com/product/2851
-
 Instructions: solder into 5V regulator adapter with caps facing down and board pointing away from adapter board
-
 Pinout for D24V50F5 Pololu regulator from top to bottom:
 
 -ENABLE -- enable pin negative
