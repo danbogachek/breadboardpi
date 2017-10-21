@@ -1,5 +1,6 @@
 # breadboardpi
 Documentation for the Raspberry Pi (40 pin) Breadboard Adapter listed on Tindie.
+https://www.tindie.com/products/bogasaur/raspberry-pi-40-pin-breadboard-adapter-2/?pt=full_prod_search
 
 D24V50F5 regulator used for breakout (highly recommend): https://www.pololu.com/product/2851 <br/>
 Instructions: solder into 5V regulator adapter with caps facing down and board pointing away from adapter board. <br/>
